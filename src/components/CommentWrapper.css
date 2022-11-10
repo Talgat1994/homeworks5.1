@@ -1,0 +1,23 @@
+.wrapper {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 150px;
+  margin: 20px auto;
+  font-size: 22x;
+  height: 200px;
+}
+.comment-first {
+  background-color: #ff7f50;
+  border-radius: 20%;
+}
+.Comment-first-date {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff7f50;
+  border: 0px solid black;
+  font-size: 22x;
+}

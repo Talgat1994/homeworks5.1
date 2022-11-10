@@ -1,0 +1,14 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+}
+
+.Comment {
+  background-color: rgb(0, 85, 255);
+}
+
+
+.comment-second {
+  background-color: #ff7f50;
+}
